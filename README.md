@@ -4,4 +4,8 @@
 
 **Teaching Assistant**: [Kaustubh Kulkarni](https://kulkarnik.github.io/)
 
-**Time and location**: M 1-4pm, Sinai Center for Computational Psychiatry, 55 W 125th St, Floor 13
+**Time**: Mondays 1-4pm
+
+**Location**: Sinai Center for Computational Psychiatry, 55 W 125th St, Floor 13
+
+**Format:** This course will follow a hybrid lecture and lab structure. Lectures will be held in person and will be followed by a live lab portion. We encourage in person attendance, though we will make available recordings of the lecture portion. 
