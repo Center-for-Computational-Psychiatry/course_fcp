@@ -30,6 +30,14 @@ Recommended background:
 + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 + [Mathesaurus](http://mathesaurus.sourceforge.net/)
 
+**Schedule:**
+
++ Sept. 12th: Intro. to Reinforcement Learning and Decision-making (AR) ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))(slides)(recording)
+    + History and recent developments 
+    + Multi-armed bandits 
+    + The explore-exploit trade-off
+
+
 **Grading:** 
 
 This is a P/F course. The course is considered passed based on attendance and participation, completion coding exercises and the final project. 
