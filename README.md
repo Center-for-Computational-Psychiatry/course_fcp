@@ -57,10 +57,19 @@ Recommended background:
     + Deep RL
     + Partially Observable Markov Decision Processes (POMDPs)
 
-+ **Oct. 31st**: Bayesian inference in the brain I ([M&K&G Section C](blank))([Daw](https://www.princeton.edu/~ndaw/d10.pdf))(slides)(recording)(code)
++ **Oct. 24th**: Parameter estimation ([M&K&G Section C](blank))([Daw](https://www.princeton.edu/~ndaw/d10.pdf))(slides)(recording)(code)
     + Belief updating with discrete evidence
     + Probabilistic predictions
     + Precision in belief updating
+
++ **Oct. 31st**: Bayesian inference in the brain I ([M&K&G Ch. 1](blank))([M&K&G Ch. 2](blank))
+    + Belief updating with discrete evidence
+    + Probabilistic predictions
+    + Precision in belief updating
+
++ **Nov. 7th**: Bayesian inference in the brain II ([M&K&G Ch. 5](blank))([M&K&G Ch. 11](blank))
+    + Elements of active inference
+    + Hierarchical Bayesian networks
 
 
 **Grading:** 
