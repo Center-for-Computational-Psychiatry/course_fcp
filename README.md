@@ -14,9 +14,9 @@
 
 **Readings:** Reading for the course (~4 hours / week) will consist of selections from two textbooks, as well as recent literature in computational psychiatry that applies these concepts to the understanding mental dysfunction. Textbooks: 
 
-+[Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.](http://incompleteideas.net/book/the-book-2nd.html)
++ [Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.](http://incompleteideas.net/book/the-book-2nd.html)
 
-+[Ma, W., & Kording, K. P., & Goldreich D. (2022). Bayesian models of perception and action.](https://www.cns.nyu.edu/malab/bayesianbook.html) 
++ [Ma, W., & Kording, K. P., & Goldreich D. (2022). Bayesian models of perception and action.](https://www.cns.nyu.edu/malab/bayesianbook.html) 
 
 **Pre-requisites:**
 
