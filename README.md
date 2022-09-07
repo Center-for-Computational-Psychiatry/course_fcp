@@ -10,7 +10,7 @@
 
 **Format:** This course will have a hybrid lecture and lab structure. Lectures will be held in person and will be followed by a live lab portion during which we will implement some of the key concepts covered in lecture. We encourage in person attendance, though we will make available recordings of each *lecture*.
 
-**Overview:** At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the neurocomputational mechanisms underlying cognitive processes, decision-making and behavior, and how these processes are altered in neuropsychiatric disorders. In this course, we will discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including Bayesian inference, reinforcement learning and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.  
+**Overview:** At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes, decision-making and behavior, and how these processes are altered in neuropsychiatric disorders. In this course, we will discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including Bayesian inference, reinforcement learning and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.  
 
 **Readings:** Reading for the course (~4 hours / week) will consist of selections from two textbooks, as well as recent literature in computational psychiatry that applies these concepts to the understanding mental dysfunction. Textbooks: 
 
@@ -32,11 +32,25 @@ Recommended background:
 
 **Schedule:**
 
-+ **Sept. 12th**: Intro. to Reinforcement Learning and Decision-making ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))(slides)(recording)(code)
++ **Sept. 12th**: Intro. to Reinforcement learning and decision-making ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))(slides)(recording)(code)
     + History and recent developments 
     + Multi-armed bandits 
     + The explore-exploit trade-off
 
++ **Sept. 19th**: Formalizing optimal behavior ([S&B Ch. 3](https://www.dropbox.com/s/l00l0ctmcuhj42y/RLbook2020-Chapter%203.pdf?dl=0))([S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0))([Zorowitz et al.](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/))(slides)(recording)(code)
+    + Markov Decision Processes (MDPs) 
+    + Bellman Equations 
+    + Dynamic Programming
+
++ **Sept. 26th**: Reinforcement learning in the brain ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Eldar et al.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6))(slides)(recording)(code)
+    + TD-Learning 
+    + Biological basis of TD-Learning 
+    + Actor-Critic and policy-gradient methods
+
++ **Oct. 3rd**: Multiple learning systems ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Eldar et al.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6))(slides)(recording)(code)
+    + TD-Learning 
+    + Biological basis of TD-Learning 
+    + Actor-Critic and policy-gradient methods
 
 **Grading:** 
 
