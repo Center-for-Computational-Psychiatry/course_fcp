@@ -57,7 +57,7 @@ Recommended background:
     + Deep RL
     + Partially Observable Markov Decision Processes (POMDPs)
 
-+ **Oct. 31st**: Bayesian inference in the brain I ([M, K & G Section C](blank)([M, K & G Ch. 2](blank)([Daw](https://www.princeton.edu/~ndaw/d10.pdf))(slides)(recording)(code)
++ **Oct. 31st**: Bayesian inference in the brain I ([M, K & G Section C](blank)([Daw](https://www.princeton.edu/~ndaw/d10.pdf))(slides)(recording)(code)
     + Belief updating with discrete evidence
     + Probabilistic predictions
     + Precision in belief updating
