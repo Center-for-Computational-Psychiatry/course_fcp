@@ -12,12 +12,6 @@
 
 **Overview:** At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes, decision-making and behavior, and how these processes are altered in neuropsychiatric disorders. In this course, we will discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including Bayesian inference, reinforcement learning and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.  
 
-**Readings:** Reading for the course (~4 hours / week) will consist of selections from two textbooks, as well as recent literature in computational psychiatry. Textbooks: 
-
-+ [Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.](http://incompleteideas.net/book/the-book-2nd.html)
-
-+ [Ma, W., & Kording, K. P., & Goldreich D. (2022). Bayesian models of perception and action.](https://www.cns.nyu.edu/malab/bayesianbook.html) 
-
 **Pre-requisites:**
 
 The course assumes beginner-to-intermediate proficiency in programming tools for data analysis. For each class, coding materials will be provided in MATLAB or Python. In general, materials will take the form of self-contained codebases which students can modify to suit the problem at hand. If you are unsure of the expected coding level, you are encouraged to consult with the instructors.
@@ -29,6 +23,12 @@ Recommended background:
 + [Python 101 Google Colab notebook](https://colab.research.google.com/drive/1RgQqcpMyfU8FOZDgIARLqhvpKaefUMnO?usp=sharing)
 + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 + [Mathesaurus](http://mathesaurus.sourceforge.net/)
+
+**Readings:** Reading for the course (~4 hours / week) will consist of selections from two textbooks, as well as recent literature in computational psychiatry. Textbooks: 
+
++ [Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.](http://incompleteideas.net/book/the-book-2nd.html)
+
++ [Ma, W., & Kording, K. P., & Goldreich D. (2022). Bayesian models of perception and action.](https://www.cns.nyu.edu/malab/bayesianbook.html) 
 
 **Schedule:**
 
