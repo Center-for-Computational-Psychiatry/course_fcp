@@ -4,3 +4,4 @@
 
 **Teaching Assistant**: [Kaustubh Kulkarni](https://kulkarnik.github.io/)
 
+**Time and location**: M 1-4pm, Sinai Center for Computational Psychiatry, 55 W 125th St, Floor 13
