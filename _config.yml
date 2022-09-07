@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-theme: minima
+theme: minimal
 title: Foundations of Computational Psychiatry
 description: >- # this means to ignore newlines until "baseurl:"
   Sinai BSR 2708 01: Foundations of Computational Psychiatry
