@@ -71,6 +71,11 @@ Recommended background:
     + Elements of active inference
     + Hierarchical Bayesian networks
 
++ **Dec. 5th**: Modeling social agents 
+    + Basic behavioral game theory
+    + Complex social interactions
+
++ **Dec. 12th**: Final presentations
 
 **Grading:** 
 
