@@ -12,7 +12,7 @@
 
 **Overview:** At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes, decision-making and behavior, and how these processes are altered in neuropsychiatric disorders. In this course, we will discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including Bayesian inference, reinforcement learning and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.  
 
-**Readings:** Reading for the course (~4 hours / week) will consist of selections from two textbooks, as well as recent literature in computational psychiatry that applies these concepts to the understanding mental dysfunction. Textbooks: 
+**Readings:** Reading for the course (~4 hours / week) will consist of selections from two textbooks, as well as recent literature in computational psychiatry. Textbooks: 
 
 + [Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.](http://incompleteideas.net/book/the-book-2nd.html)
 
