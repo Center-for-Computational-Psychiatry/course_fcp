@@ -47,10 +47,21 @@ Recommended background:
     + Biological basis of TD-Learning 
     + Actor-Critic and policy-gradient methods
 
-+ **Oct. 3rd**: Multiple learning systems ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Eldar et al.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6))(slides)(recording)(code)
-    + TD-Learning 
-    + Biological basis of TD-Learning 
-    + Actor-Critic and policy-gradient methods
++ **Oct. 3rd**: Multiple learning systems ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))(slides)(recording)(code)
+    + Model-free control
+    + Model-based control
+    + Hybrid approaches
+
++ **Oct. 17th**: Scaling to real-world problems ([S&B Ch. 9](https://www.dropbox.com/s/cdddxc4ijvf7nof/RLbook2020-Chapter%209.pdf?dl=0))([Radulescu et al.](https://www.sciencedirect.com/science/article/pii/S0959438818300928))(slides)(recording)(code)
+    + Representation learning 
+    + Deep RL
+    + Partially Observable Markov Decision Processes (POMDPs)
+
++ **Oct. 31st**: Bayesian inference in the brain I ([M, K & G Section C](blank)([M, K & G Ch. 2](blank)([Daw](https://www.princeton.edu/~ndaw/d10.pdf))(slides)(recording)(code)
+    + Belief updating with discrete evidence
+    + Probabilistic predictions
+    + Precision in belief updating
+
 
 **Grading:** 
 
