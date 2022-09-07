@@ -14,11 +14,9 @@
 
 **Readings:** Reading for the course (~4 hours / week) will consist of selections from two textbooks, as well as recent literature in computational psychiatry that applies these concepts to the understanding mental dysfunction. Textbooks: 
 
-<ul>
 +[Sutton, R. S., & Barto, A. G. (2018). Reinforcement learning: An introduction. MIT press.](http://incompleteideas.net/book/the-book-2nd.html)
 
 +[Ma, W., & Kording, K. P., & Goldreich D. (2022). Bayesian models of perception and action.](https://www.cns.nyu.edu/malab/bayesianbook.html) 
-</ul>
 
 **Pre-requisites:**
 
@@ -26,13 +24,11 @@ The course assumes beginner-to-intermediate proficiency in programming tools for
 
 Recommended background: 
 
-<ul>
-    + [MATLAB: Getting Started with MATLAB: Basic commands](https://www.mathworks.com/help/releases/R2017a/matlab/getting-started-with-matlab.html)
-    + [Matlab Programming fundamentals](https://www.mathworks.com/help/pdf_doc/matlab/matlab_prog.pdf) 
-    + [Python 101 Google Colab notebook](https://colab.research.google.com/drive/1RgQqcpMyfU8FOZDgIARLqhvpKaefUMnO?usp=sharing)
-    + [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
-    + [Mathesaurus](http://mathesaurus.sourceforge.net/)
-</ul>
++ [MATLAB: Getting Started with MATLAB: Basic commands](https://www.mathworks.com/help/releases/R2017a/matlab/getting-started-with-matlab.html)
++ [Matlab Programming fundamentals](https://www.mathworks.com/help/pdf_doc/matlab/matlab_prog.pdf) 
++ [Python 101 Google Colab notebook](https://colab.research.google.com/drive/1RgQqcpMyfU8FOZDgIARLqhvpKaefUMnO?usp=sharing)
++ [The Python Tutorial](https://docs.python.org/3/tutorial/index.html)
++ [Mathesaurus](http://mathesaurus.sourceforge.net/)
 
 **Grading:** 
 
