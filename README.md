@@ -45,7 +45,7 @@ Recommended background:
     + Biological basis of TD-Learning 
     + Actor-Critic and policy-gradient methods
 
-+ **Oct. 3rd**: Multiple learning systems ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))(slides)(recording)(code)
++ **Oct. 3rd**: Multiple learning systems ([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))(slides)(recording)(code)
     + Model-free control
     + Model-based control
     + Hybrid approaches
