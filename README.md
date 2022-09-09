@@ -77,7 +77,7 @@ Recommended background:
 
 **Grading:** 
 
-This is a P/F course. The course is considered passed based on attendance and participation, completion coding exercises and the final project. 
+This is a P/F course. The course is considered passed based on attendance and participation, completion of coding exercises and the final project. 
 
 
 
