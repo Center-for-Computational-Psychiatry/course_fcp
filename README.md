@@ -30,7 +30,7 @@ Recommended background:
 
 **Schedule:**
 
-+ **Sept. 12th**: Intro. to Reinforcement learning and decision-making ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))(slides)(recording)([code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing))
++ **Sept. 12th**: Intro. to Reinforcement learning and decision-making ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))([slides](https://www.dropbox.com/s/b7tppl0q2ks8qpd/Lecture%201.pdf?dl=0))(recording)([code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing))
     + History and recent developments 
     + Multi-armed bandits 
     + The explore-exploit trade-off
