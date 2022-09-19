@@ -35,7 +35,7 @@ Recommended background:
     + Multi-armed bandits 
     + The explore-exploit trade-off
 
-+ **Sept. 19th**: Formalizing optimal behavior ([S&B Ch. 3](https://www.dropbox.com/s/l00l0ctmcuhj42y/RLbook2020-Chapter%203.pdf?dl=0))([S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0))([Zorowitz et al.](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/))(slides)(recording)([code](https://colab.research.google.com/drive/1BAfB-aEKzPvngNXnkd7l9kzwVba77mq7#scrollTo=-veHfjoT75NO))
++ **Sept. 19th**: Formalizing optimal behavior ([S&B Ch. 3](https://www.dropbox.com/s/l00l0ctmcuhj42y/RLbook2020-Chapter%203.pdf?dl=0))([S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0))([Zorowitz et al.](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/))([slides](https://www.dropbox.com/s/lsm96oua6fycn4g/Lecture%202.pdf?dl=0))([recording](https://www.dropbox.com/s/r61h3lc0rzg3ea0/Lecture%202%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1BAfB-aEKzPvngNXnkd7l9kzwVba77mq7#scrollTo=-veHfjoT75NO))
     + Markov Decision Processes (MDPs) 
     + Bellman Equations 
     + Dynamic Programming
