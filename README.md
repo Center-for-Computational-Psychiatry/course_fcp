@@ -40,7 +40,7 @@ Recommended background:
     + Bellman Equations 
     + Dynamic Programming
 
-+ **Sept. 26th**: Reinforcement learning in the brain ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Eldar et al.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6))([slides](https://www.dropbox.com/s/ve55ueb9oml2ho5/Lecture%203.pdf?dl=0))(recording)([code](https://colab.research.google.com/drive/1No_f9yd6WKhSOOwif5KhALPQf9snNaJx#scrollTo=p1YpBg2dxvB))
++ **Sept. 26th**: Reinforcement learning in the brain ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Eldar et al.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6))([slides](https://www.dropbox.com/s/ve55ueb9oml2ho5/Lecture%203.pdf?dl=0))([recording](https://www.dropbox.com/s/u91plkappdmjle6/Lecture%203%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1No_f9yd6WKhSOOwif5KhALPQf9snNaJx#scrollTo=p1YpBg2dxvB))
     + TD-Learning 
     + Biological basis of TD-Learning 
     + Actor-Critic
