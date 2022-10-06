@@ -45,7 +45,7 @@ Recommended background:
     + Biological basis of TD-Learning 
     + Actor-Critic
 
-+ **Oct. 3rd (cancelled)**: 
++ **Oct. 3rd (cancelled)** 
 
 + **Oct. 17th**: Multiple learning systems ([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))(slides)(recording)(code)
     + Model-free control
