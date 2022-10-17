@@ -47,7 +47,7 @@ Recommended background:
 
 + **Oct. 3rd (cancelled)** 
 
-+ **Oct. 17th**: Multiple learning systems ([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))(slides)(recording)(code)
++ **Oct. 17th**: Multiple learning systems ([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))(slides)(recording)([code](https://colab.research.google.com/drive/1mI8KV5TzFwddyqkpK_GttEpt2WaZVgGH?usp=sharing))
     + Model-free control
     + Model-based control
     + Hybrid approaches
