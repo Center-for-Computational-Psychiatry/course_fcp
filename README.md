@@ -52,7 +52,7 @@ Recommended background:
     + Model-based control
     + Hybrid approaches
 
-+ **Oct. 24th**: Parameter estimation ([M&K&G Section C](blank))([Daw](https://www.princeton.edu/~ndaw/d10.pdf))(slides)(recording)(code)
++ **Oct. 24th (rescheduled for Oct. 27th)**: Parameter estimation ([M&K&G Section C](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([Daw](https://www.princeton.edu/~ndaw/d10.pdf))([slides](https://www.dropbox.com/s/m09q7su9889wt7w/lecture5-ParameterRegression%20vincenzo%20fiore.pdf?dl=0))([recording](https://www.dropbox.com/home/DCA-lab/Teaching/FCP%20course/Week_5?preview=video1256751904+vincenzo+fiore.mp4))([code](https://www.dropbox.com/scl/fo/f1nckzjj9kvwpln2vt28b/h?dl=0&rlkey=uepeut2x5tialohukr2s8hhio))
     + Belief updating with discrete evidence
     + Probabilistic predictions
     + Precision in belief updating
