@@ -30,12 +30,12 @@ Recommended background:
 
 **Schedule:**
 
-+ **Sept. 12th**: Intro. to Reinforcement learning and decision-making ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))([slides](https://www.dropbox.com/s/b7tppl0q2ks8qpd/Lecture%201.pdf?dl=0))([recording](https://www.dropbox.com/s/2k1oex21uzm8685/Lecture%201%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing))
++ **Sept. 12th**: Intro. to Reinforcement learning and decision-making ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))([slides](https://www.dropbox.com/s/b7tppl0q2ks8qpd/Lecture%201.pdf?dl=0))([recording](https://www.dropbox.com/s/2k1oex21uzm8685/Lecture%201%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing))([solutions](https://colab.research.google.com/drive/13YwmuxGR_c12MEzWcXFV2N7tfjZKpVrO#scrollTo=hO1ajx3N9TdF))
     + History and recent developments 
     + Multi-armed bandits 
     + The explore-exploit trade-off
 
-+ **Sept. 19th**: Formalizing optimal behavior ([S&B Ch. 3](https://www.dropbox.com/s/l00l0ctmcuhj42y/RLbook2020-Chapter%203.pdf?dl=0))([S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0))([Zorowitz et al.](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/))([slides](https://www.dropbox.com/s/lsm96oua6fycn4g/Lecture%202.pdf?dl=0))([recording](https://www.dropbox.com/s/r61h3lc0rzg3ea0/Lecture%202%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1BAfB-aEKzPvngNXnkd7l9kzwVba77mq7#scrollTo=-veHfjoT75NO))
++ **Sept. 19th**: Formalizing optimal behavior ([S&B Ch. 3](https://www.dropbox.com/s/l00l0ctmcuhj42y/RLbook2020-Chapter%203.pdf?dl=0))([S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0))([Zorowitz et al.](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/))([slides](https://www.dropbox.com/s/lsm96oua6fycn4g/Lecture%202.pdf?dl=0))([recording](https://www.dropbox.com/s/r61h3lc0rzg3ea0/Lecture%202%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1BAfB-aEKzPvngNXnkd7l9kzwVba77mq7#scrollTo=-veHfjoT75NO))([solutions](https://colab.research.google.com/drive/1dEw5MFw-DqpAs28F7SqFDKyVncRs130Y#scrollTo=mg-EZOK27NBO))
     + Markov Decision Processes (MDPs) 
     + Bellman Equations 
     + Dynamic Programming
