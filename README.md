@@ -57,7 +57,7 @@ Recommended background:
     + Probabilistic predictions
     + Precision in belief updating
 
-+ **Oct. 31st**: Scaling to real-world problems ([S&B Ch. 9](https://www.dropbox.com/s/cdddxc4ijvf7nof/RLbook2020-Chapter%209.pdf?dl=0))([Radulescu et al.](https://www.sciencedirect.com/science/article/pii/S0959438818300928))([slides](https://www.dropbox.com/s/ozo7vgi8uebjry0/Lecture%206.pdf?dl=0))([recording](https://www.dropbox.com/s/d99wtrac8kciffr/Lecture%206%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1srVcKSIUMPRFPGBLRqzKQCKFlDfLK3hk#scrollTo=YTWPcYZeleW4))
++ **Oct. 31st**: Scaling to real-world problems ([S&B Ch. 9](https://www.dropbox.com/s/cdddxc4ijvf7nof/RLbook2020-Chapter%209.pdf?dl=0))([Radulescu et al.](https://www.sciencedirect.com/science/article/pii/S0959438818300928))([slides](https://www.dropbox.com/s/ozo7vgi8uebjry0/Lecture%206.pdf?dl=0))([recording](https://www.dropbox.com/s/cg5nf14dpgrhfdd/Lecture%206%20-%20recording%20-%20new.mp4?dl=0))([code](https://colab.research.google.com/drive/1srVcKSIUMPRFPGBLRqzKQCKFlDfLK3hk#scrollTo=YTWPcYZeleW4))
     + Representation learning 
     + Deep RL
     + Partially Observable Markov Decision Processes (POMDPs)
