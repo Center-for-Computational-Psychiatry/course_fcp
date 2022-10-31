@@ -52,7 +52,7 @@ Recommended background:
     + Model-based control
     + Hybrid approaches
 
-+ **Oct. 24th (rescheduled for Oct. 27th)**: Parameter estimation ([M&K&G Section C](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([Daw](https://www.princeton.edu/~ndaw/d10.pdf))([slides](https://www.dropbox.com/s/m09q7su9889wt7w/lecture5-ParameterRegression%20vincenzo%20fiore.pdf?dl=0))([recording I](https://www.dropbox.com/s/astuu2r9bfvfpal/video1256751904%20vincenzo%20fiore.mp4?dl=0))([recording II](https://www.dropbox.com/s/tgtgorc7x4lr42n/video2256751904%20vincenzo%20fiore.mp4?dl=0))
++ **Oct. 24th (rescheduled for Oct. 27th)**: Parameter estimation ([M&K&G Section C](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([Daw](https://www.princeton.edu/~ndaw/d10.pdf))([slides](https://www.dropbox.com/s/m09q7su9889wt7w/lecture5-ParameterRegression%20vincenzo%20fiore.pdf?dl=0))([recording I](https://www.dropbox.com/s/astuu2r9bfvfpal/video1256751904%20vincenzo%20fiore.mp4?dl=0))([recording II](https://www.dropbox.com/s/tgtgorc7x4lr42n/video2256751904%20vincenzo%20fiore.mp4?dl=0))([code](https://www.dropbox.com/sh/15i7hp1j68v3sxu/AADLwu91pHU0XDKXaK__KoIka?dl=0))
     + Belief updating with discrete evidence
     + Probabilistic predictions
     + Precision in belief updating
