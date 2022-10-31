@@ -57,7 +57,7 @@ Recommended background:
     + Probabilistic predictions
     + Precision in belief updating
 
-+ **Oct. 31st**: Scaling to real-world problems ([S&B Ch. 9](https://www.dropbox.com/s/cdddxc4ijvf7nof/RLbook2020-Chapter%209.pdf?dl=0))([Radulescu et al.](https://www.sciencedirect.com/science/article/pii/S0959438818300928))(slides)(recording)(code)
++ **Oct. 31st**: Scaling to real-world problems ([S&B Ch. 9](https://www.dropbox.com/s/cdddxc4ijvf7nof/RLbook2020-Chapter%209.pdf?dl=0))([Radulescu et al.](https://www.sciencedirect.com/science/article/pii/S0959438818300928))(slides)(recording)([code](https://colab.research.google.com/drive/1srVcKSIUMPRFPGBLRqzKQCKFlDfLK3hk#scrollTo=YTWPcYZeleW4))
     + Representation learning 
     + Deep RL
     + Partially Observable Markov Decision Processes (POMDPs)
