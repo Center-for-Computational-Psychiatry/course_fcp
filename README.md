@@ -62,7 +62,7 @@ Recommended background:
     + Deep RL
     + Partially Observable Markov Decision Processes (POMDPs)
 
-+ **Nov. 7th**: Bayesian inference in the brain I ([M&K&G Ch. 1](blank))([M&K&G Ch. 2](blank))
++ **Nov. 7th**: Bayesian inference in the brain I ([M&K&G Ch. 1](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 2](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([slides](blank))([recording](blank))([code](https://www.dropbox.com/s/r9wy3sbufqdkqdq/Lecture_7_code.zip?dl=0))
     + Belief updating with discrete evidence
     + Probabilistic predictions
     + Precision in belief updating
