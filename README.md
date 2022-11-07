@@ -14,6 +14,9 @@
 
 **Pre-requisites:** The course assumes beginner-to-intermediate proficiency in programming tools for data analysis. For each class, coding materials will be provided in MATLAB or Python. In general, materials will take the form of self-contained codebases which students can modify to suit the problem at hand. If you are unsure of the expected coding level, you are encouraged to consult with the instructors.
 
+**Final project**
+You can find a final project overview [here](https://docs.google.com/document/d/1H4-xOtikGd7VI6lNFwLRX4aTh_qYvJj_VUFl3lsmm50/edit). 
+
 Recommended background: 
 
 + [MATLAB: Getting Started with MATLAB: Basic commands](https://www.mathworks.com/help/releases/R2017a/matlab/getting-started-with-matlab.html)
