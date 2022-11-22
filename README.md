@@ -69,7 +69,7 @@ Recommended background:
     + Probabilistic predictions
     + Precision in belief updating
 
-+ **Nov. 21st (make-up)**: Bayesian inference in the brain II ([M&K&G Ch. 5](blank))([M&K&G Ch. 11](blank))
++ **Nov. 21st (make-up)**: Bayesian inference in the brain II ([M&K&G Ch. 5](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 11](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([slides](https://www.dropbox.com/s/kf7nneivit7n4ui/Lecture8.pdf?dl=0))([recording](https://www.dropbox.com/s/r9vi7njq51rbod1/video1515842253.mp4?dl=0))([code](https://www.dropbox.com/s/yaq8dmh9rbwqoxu/Lecture8_code.zip?dl=0))
     + Elements of active inference
     + Hierarchical Bayesian networks
 
