@@ -73,11 +73,10 @@ Recommended background:
     + Elements of active inference
     + Hierarchical Bayesian networks
 
-+ **Dec. 5th**: Modeling social agents 
++ **Dec. 5th**: Modeling social agents ([slides](https://www.dropbox.com/s/fn0ixqcmjs5pu8s/2022.12_FCP_socialmind.pdf?dl=0))([recording](https://www.dropbox.com/s/qt96rrekmi4kvlu/video1605124283.mp4?dl=0))
     + Basic behavioral game theory
     + Complex social interactions
-    ([slides](https://www.dropbox.com/s/fn0ixqcmjs5pu8s/2022.12_FCP_socialmind.pdf?dl=0))([recording](https://www.dropbox.com/s/qt96rrekmi4kvlu/video1605124283.mp4?dl=0))
-
+    
 + **Dec. 12th**: Final presentations
 
 **Grading:** 
