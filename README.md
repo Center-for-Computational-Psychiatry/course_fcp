@@ -77,7 +77,7 @@ Recommended background:
     + Basic behavioral game theory
     + Complex social interactions
     
-+ **Dec. 12th**: Final presentations
++ **Dec. 12th**: Final presentations ([project upload link](https://drive.google.com/drive/folders/1n7uiNTLkevPpJRssHUaT5iPtuGYaiKtg?usp=share_link))
 
 **Grading:** 
 
