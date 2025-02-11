@@ -36,13 +36,6 @@ Recommended background:
 
 + **Feb. 24th**: Anxiety, avoidance and uncertainty ([Intro paper](https://lilianweng.github.io/posts/2018-02-19-rl-overview/))([S&B Ch. 3](https://www.dropbox.com/s/l00l0ctmcuhj42y/RLbook2020-Chapter%203.pdf?dl=0))([S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0))([Zorowitz et al.](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
 
-
-
-
-
-
-
-
 <!-- + **Sept. 26th**: Reinforcement learning in the brain ([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Eldar et al.](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613%2815%2900174-6))([slides](https://www.dropbox.com/s/ve55ueb9oml2ho5/Lecture%203.pdf?dl=0))([recording](https://www.dropbox.com/s/u91plkappdmjle6/Lecture%203%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1No_f9yd6WKhSOOwif5KhALPQf9snNaJx#scrollTo=p1YpBg2dxvB))([solutions](hello))
 
 + **Oct. 3rd (cancelled)** 
