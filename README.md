@@ -52,10 +52,9 @@ Recommended background:
 
 + **Apr. 14th**: Title TBD ([Intro paper](https://elifesciences.org/articles/49547))([M&K&G Section C](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([slides](hello))([recording](hello))([code](hello))
 
-+ **Apr. 28th (tentative)**: Social anxiety, borderline personality disorder & multi-agent interactions  ([Intro paper](hello))([slides](hello))([recording](hello))
++ **Apr. 28th (tentative)**: Social cognition & multi-agent interactions  ([Intro paper](hello))([slides](hello))([recording](hello))
 
 + **May. 5th**: Student presentations 
-
 
 <!-- + **Oct. 17th**: Multiple learning systems ([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))([slides](https://www.dropbox.com/s/jhw1xgq8uclfs3h/Lecture%204.pdf?dl=0))([recording](https://www.dropbox.com/s/llw744bwmr40jk4/Lecture%204%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1mI8KV5TzFwddyqkpK_GttEpt2WaZVgGH?usp=sharing))([solutions](hello))
    
