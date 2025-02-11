@@ -1,20 +1,20 @@
-# Foundations of computational psychiatry - Fall 2022
+# Foundations of computational psychiatry - Spring 2025
 
 **Instructors**: [Vincenzo Fiore](https://profiles.mountsinai.org/vincenzo-guido-fiore), [Angela Radulescu](https://www.angelaradulescu.com/) 
 
-**Teaching Assistant**: [Kaustubh Kulkarni](https://kulkarnik.github.io/)
+**Teaching Assistant**: [Ülgen Kilic](https://ulgenklc.github.io/)
 
 **Time**: Mondays 1-4pm
 
 **Location**: Sinai Center for Computational Psychiatry, 55 W 125th St, Floor 13
 
-**Format:** This course will have a hybrid lecture and lab structure. Lectures will be held in person and will be followed by a live lab portion during which we will implement some of the key concepts covered in lecture. We encourage in person attendance, though we will make available recordings of each *lecture*.
+**Format:** This course will have a hybrid lecture, lab and flipped journal club structure. Lectures will be held in person and will be followed by a live lab portion during which we will implement some of the key concepts covered in lecture. We will then have a student-led discussion of papers in the literature. We will make available recordings of each *lecture*.
 
 **Overview:** At the intersection of psychology, neuroscience and AI, computational models are aimed at understanding the mechanisms underlying cognitive processes that drive behavior, and how these processes are altered in neuropsychiatric disorders. In this course, we will discuss some of the goals, foundational ideas, and technical concepts behind computational modeling. We will survey several modeling approaches, including Bayesian inference, reinforcement learning and neural modeling. And we will get hands on experience with building and fitting models to data from different modalities.  
 
 **Pre-requisites:** The course assumes beginner-to-intermediate proficiency in programming tools for data analysis. For each class, coding materials will be provided in MATLAB or Python. In general, materials will take the form of self-contained codebases which students can modify to suit the problem at hand. If you are unsure of the expected coding level, you are encouraged to consult with the instructors.
 
-**Final project:** You can find a final project overview [here](https://docs.google.com/document/d/1H4-xOtikGd7VI6lNFwLRX4aTh_qYvJj_VUFl3lsmm50/edit). 
+<!-- **Final presentations:** You can find a final project overview [here](https://docs.google.com/document/d/1H4-xOtikGd7VI6lNFwLRX4aTh_qYvJj_VUFl3lsmm50/edit).  -->
 
 Recommended background: 
 
@@ -32,7 +32,7 @@ Recommended background:
 
 **Schedule:**
 
-+ **Sept. 12th**: Intro. to Reinforcement learning and decision-making ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))([slides](https://www.dropbox.com/s/b7tppl0q2ks8qpd/Lecture%201.pdf?dl=0))([recording](https://www.dropbox.com/s/2k1oex21uzm8685/Lecture%201%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing))([solutions](https://colab.research.google.com/drive/13YwmuxGR_c12MEzWcXFV2N7tfjZKpVrO#scrollTo=hO1ajx3N9TdF))
++ **Sept. 12th**: Intro. to computational psychiatry ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))([Addicott et al.](https://www.nature.com/articles/npp2017108))([slides](https://www.dropbox.com/s/b7tppl0q2ks8qpd/Lecture%201.pdf?dl=0))([recording](https://www.dropbox.com/s/2k1oex21uzm8685/Lecture%201%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing))([solutions](https://colab.research.google.com/drive/13YwmuxGR_c12MEzWcXFV2N7tfjZKpVrO#scrollTo=hO1ajx3N9TdF))
     + History and recent developments 
     + Multi-armed bandits 
     + The explore-exploit trade-off
