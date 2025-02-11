@@ -40,7 +40,9 @@ Recommended background:
 
 + **Mar. 3rd**: Mood instability and learning ([Intro paper](https://www.princeton.edu/~yael/Publications/Niv2009.pdf))([S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Rutledge et al.](https://pubmed.ncbi.nlm.nih.gov/25092308/))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
 
-+ **Mar. 10th**: Depression, effort and planning ([Intro paper](https://pubmed.ncbi.nlm.nih.gov/25705929/))([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Huys et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3297555/pdf/pcbi.1002410.pdf))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
++ **Mar. 10th**: Depression, effort and planning ([Intro paper](https://pubmed.ncbi.nlm.nih.gov/25705929/))([S&B Ch. 8](https://www.dropbox.com/scl/fi/20p0zrk5z9jo5b272dz00/RLbook2020-Chapter-8.pdf?rlkey=87qmi9sezfxtt0s4z1zrdz2z9&dl=0))([Huys et al.](https://pmc.ncbi.nlm.nih.gov/articles/PMC3297555/pdf/pcbi.1002410.pdf))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
+
++ **Mar. 17th**: Naturalistic computational psychiatry ([Intro paper](https://pubmed.ncbi.nlm.nih.gov/34579545/))([S&B Ch. 9](https://www.dropbox.com/scl/fi/svqaxubvhy9g1jnetsfkv/RLbook2020-Chapter-9.pdf?rlkey=lwu8x0phypngsh6gvoeyhnstl&dl=0))([Berwian et al.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2761562))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
 
 <!-- + **Oct. 17th**: Multiple learning systems ([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))([slides](https://www.dropbox.com/s/jhw1xgq8uclfs3h/Lecture%204.pdf?dl=0))([recording](https://www.dropbox.com/s/llw744bwmr40jk4/Lecture%204%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1mI8KV5TzFwddyqkpK_GttEpt2WaZVgGH?usp=sharing))([solutions](hello))
    
