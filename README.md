@@ -44,7 +44,18 @@ Recommended background:
 
 + **Mar. 17th**: Naturalistic computational psychiatry ([Intro paper](https://pubmed.ncbi.nlm.nih.gov/34579545/))([S&B Ch. 9](https://www.dropbox.com/scl/fi/svqaxubvhy9g1jnetsfkv/RLbook2020-Chapter-9.pdf?rlkey=lwu8x0phypngsh6gvoeyhnstl&dl=0))([Berwian et al.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2761562))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
 
-**Mar. 24th**: Title TBD ([Intro paper](hello))([M&K&G Ch. 1](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 2](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([slides](hello))([recording](hello))([code](hello))
++ **Mar. 24th**: Title TBD ([Intro paper](hello))([M&K&G Ch. 1](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 2](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([slides](hello))([recording](hello))([code](hello))
+
++ **Mar. 31st**: Title TBD ([Intro paper](hello))([M&K&G Ch. 5](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 12](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
+
++ **Apr. 7th**: Title TBD ([Intro paper](hello))([D & A Ch. 7](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
+
++ **Apr. 14th**: Title TBD ([Intro paper](https://elifesciences.org/articles/49547))([M&K&G Section C](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([slides](hello))([recording](hello))([code](hello))
+
++ **Apr. 28th**: Social anxiety, borderline personality disorder & multi-agent interactions  ([Intro paper](hello))([slides](hello))([recording](hello))
+
++ **May. 5th**: Student presentations 
+
 
 <!-- + **Oct. 17th**: Multiple learning systems ([S&B Ch. 8](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0))([Gillan et al.](https://elifesciences.org/articles/11305.pdf))([slides](https://www.dropbox.com/s/jhw1xgq8uclfs3h/Lecture%204.pdf?dl=0))([recording](https://www.dropbox.com/s/llw744bwmr40jk4/Lecture%204%20-%20recording.mp4?dl=0))([code](https://colab.research.google.com/drive/1mI8KV5TzFwddyqkpK_GttEpt2WaZVgGH?usp=sharing))([solutions](hello))
    
