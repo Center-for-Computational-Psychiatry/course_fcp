@@ -52,7 +52,7 @@ Recommended background:
 
 + **Apr. 14th**: Title TBD ([Intro paper](https://elifesciences.org/articles/49547))([M&K&G Section C](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([slides](hello))([recording](hello))([code](hello))
 
-+ **Apr. 28th**: Social anxiety, borderline personality disorder & multi-agent interactions  ([Intro paper](hello))([slides](hello))([recording](hello))
++ **Apr. 28th (tentative)**: Social anxiety, borderline personality disorder & multi-agent interactions  ([Intro paper](hello))([slides](hello))([recording](hello))
 
 + **May. 5th**: Student presentations 
 
