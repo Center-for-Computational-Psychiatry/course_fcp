@@ -46,13 +46,13 @@ Recommended background:
 
 + **Mar. 24th**: Belief updating with discrete evidence ([Intro paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8823284/))([M&K&G Ch. 1](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 2](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([slides](hello))([recording](hello))([code](hello))
 
-+ **Mar. 31st**: Hierarchical thinking ([Intro paper](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2014.00131/full))([M&K&G Ch. 5](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 12](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([Cassidy et al.](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930004-6))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
++ **Mar. 31st**: Hierarchical thinking ([Intro paper](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2014.00131/full))([M&K&G Ch. 5](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([M&K&G Ch. 12](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf))([**Cassidy et al.**](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930004-6))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
 
-+ **Apr. 7th**: Non-linear dynamics in the brain ([Intro paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC2691385/))([D & A Ch. 7](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([Suryanarayana et al.](https://www.sciencedirect.com/science/article/pii/S0893608018302880))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
++ **Apr. 7th**: Non-linear dynamics in the brain ([Intro paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC2691385/))([D & A Ch. 7](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([**Suryanarayana et al.****](https://www.sciencedirect.com/science/article/pii/S0893608018302880))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
 
-+ **Apr. 14th**: Neurocomputational phenotypes ([Intro paper](https://www.princeton.edu/~ndaw/d10.pdf))([M&K&G Section C](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([Wilson & Collins](https://elifesciences.org/articles/49547))([slides](hello))([recording](hello))([code](hello))
++ **Apr. 14th**: Neurocomputational phenotypes ([Intro paper](https://www.princeton.edu/~ndaw/d10.pdf))([M&K&G Section C](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf))([**Wilson & Collins**](https://elifesciences.org/articles/49547))([slides](hello))([recording](hello))([code](hello))
 
-+ **Apr. 28th (tentative)**: Social cognition & multi-agent interactions  ([Intro paper](hello))([slides](hello))([recording](hello))
++ **Apr. 28th (tentative)**: Social cognition & multi-agent interactions ([Intro paper](hello))([slides](hello))([recording](hello))
 
 + **May. 5th**: Student presentations 
 
