@@ -91,7 +91,8 @@ Recommended background:
 + **Mar. 31st**: Hierarchical thinking 
     - [Intro paper](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2014.00131/full)
     - [M&K&G Ch. 5](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
-    - [M&K&G Ch. 12](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)- [**JC: Cassidy et al.**](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930004-6)
+    - [M&K&G Ch. 12](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
+    - [**JC: Cassidy et al.**](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930004-6)
     - [Slides](hello)
     - [Recording](hello)
     - [Code](hello)
