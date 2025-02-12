@@ -35,12 +35,13 @@ Recommended background:
 **Schedule:**
 
 * **Feb. 10th**: Intro to computational psychiatry 
-    - ([Intro paper](https://pubmed.ncbi.nlm.nih.gov/31017638/))
-    - ([S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0))
-    - ([S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0))
-    - ([slides](https://www.dropbox.com/scl/fi/14zbz5gtfz2njv5pxisbw/Lecture-1.pdf?rlkey=xoagfsst3t4j3insz2w8xxavk&dl=0))- ([recording](https://www.dropbox.com/scl/fi/sdqpval8kwoj4w9m4w8wj/Lecture-1.mp4?rlkey=1qal1e8r7j7qpu16hyiyun69y&dl=0))
-    - ([code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing))
-    - ([solutions](hello))
+    - [Intro paper](https://pubmed.ncbi.nlm.nih.gov/31017638/)
+    - [S&B Ch. 1](https://www.dropbox.com/s/c5bj6odbm0g3i0g/RLbook2020-Chapter%201.pdf?dl=0)
+    - [S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0)
+    - [slides](https://www.dropbox.com/scl/fi/14zbz5gtfz2njv5pxisbw/Lecture-1.pdf?rlkey=xoagfsst3t4j3insz2w8xxavk&dl=0)
+    - [recording](https://www.dropbox.com/scl/fi/sdqpval8kwoj4w9m4w8wj/Lecture-1.mp4?rlkey=1qal1e8r7j7qpu16hyiyun69y&dl=0)
+    - [code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing)
+    - [solutions](hello)
 
 + **Feb. 24th**: Anxiety, avoidance and uncertainty ([Intro paper](https://lilianweng.github.io/posts/2018-02-19-rl-overview/))([S&B Ch. 3](https://www.dropbox.com/s/l00l0ctmcuhj42y/RLbook2020-Chapter%203.pdf?dl=0))([S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0))([**Zorowitz et al.**](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/))([slides](hello))([recording](hello))([code](hello))([solutions](hello))
 
