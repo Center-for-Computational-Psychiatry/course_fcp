@@ -40,7 +40,7 @@ Recommended background:
     - [S&B Ch. 2](https://www.dropbox.com/s/w1v1gey5r796qwh/RLbook2020-Chapter%202.pdf?dl=0)
     - [Slides](https://www.dropbox.com/scl/fi/14zbz5gtfz2njv5pxisbw/Lecture-1.pdf?rlkey=xoagfsst3t4j3insz2w8xxavk&dl=0)
     - [Recording](https://www.dropbox.com/scl/fi/sdqpval8kwoj4w9m4w8wj/Lecture-1.mp4?rlkey=1qal1e8r7j7qpu16hyiyun69y&dl=0)
-    - [Code](https://colab.research.google.com/drive/1rtTdW11iuwY53zmBez4H7vlsnMj0nKSV?usp=sharing)
+    - [Code](https://colab.research.google.com/drive/16Mv1O9MBzsEElsJiPHD8wbxarwbtZf2a?usp=sharing)
     - [Solutions](hello)
 
 * **Feb. 24th**: Anxiety, avoidance and uncertainty 
