@@ -80,7 +80,9 @@ Recommended background:
     - [Code](hello)
     - [Solutions](hello)
 
-+ **Mar. 24th**: Belief updating with discrete evidence 
++ **Mar. 24th**: Spring break 
+
++ **Mar. 31st**: Belief updating with discrete evidence 
     - [Intro paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC8823284/)
     - [M&K&G Ch. 1](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
     - [M&K&G Ch. 2](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
@@ -88,7 +90,7 @@ Recommended background:
     - [Recording](hello)
     - [Code](hello)
 
-+ **Mar. 31st**: Hierarchical thinking 
++ **Apr. 7th**: Hierarchical thinking 
     - [Intro paper](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2014.00131/full)
     - [M&K&G Ch. 5](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
     - [M&K&G Ch. 12](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
@@ -98,7 +100,7 @@ Recommended background:
     - [Code](hello)
     - [Solutions](hello)
 
-+ **Apr. 7th**: Non-linear dynamics in the brain 
++ **Apr. 14th**: Non-linear dynamics in the brain 
     - [Intro paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC2691385/)
     - [D & A Ch. 7](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf)
     - [**JC: Suryanarayana et al.**](https://www.sciencedirect.com/science/article/pii/S0893608018302880)
@@ -107,18 +109,13 @@ Recommended background:
     - [Code](hello)
     - [Solutions](hello)
 
-+ **Apr. 14th**: Neurocomputational phenotypes 
++ **Apr. 28th**: Neurocomputational phenotypes 
     - [Intro paper](https://www.princeton.edu/~ndaw/d10.pdf)
     - [M&K&G Section C](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf)
     - [**JC: Wilson & Collins**](https://elifesciences.org/articles/49547)
     - [Slides](hello)
     - [Recording](hello)
     - [Code](hello)
-
-+ **Apr. 28th (tentative)**: Social cognition & multi-agent interactions 
-    - [Intro paper](hello)
-    - [Slides](hello)
-    - [Recording](hello)
 
 + **May. 5th**: Student presentations 
 
