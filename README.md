@@ -50,7 +50,7 @@ Recommended background:
     - [**JC: Zorowitz et al.**](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/)
     - [Slides](https://www.dropbox.com/scl/fi/t1z8gc4d1f7ov0k24vxmi/Lecture-2.pdf?rlkey=jh0gca2m43w73t3ndwbbuqpg9&dl=0)
     - [Recording](hello)
-    - [Code](hello)
+    - [Code](https://colab.research.google.com/drive/1u6XzVbdeFgR1ev6mXHvEn68czfvTea7M#scrollTo=yIHsc5_kd1yL)
     - [Solutions](hello)
 
 + **Mar. 3rd**: Mood instability and learning 
