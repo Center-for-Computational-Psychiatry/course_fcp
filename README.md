@@ -57,7 +57,7 @@ Recommended background:
     - [Intro paper](https://www.princeton.edu/~yael/Publications/Niv2009.pdf)
     - [S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0)
     - [**JC: Rutledge et al.**](https://pubmed.ncbi.nlm.nih.gov/25092308/)
-    - [Slides](hello)
+    - [Slides](https://www.dropbox.com/scl/fi/kkacfue8rw9442xcetbx4/Lecture-3.pdf?rlkey=cca9aturyeijphk2z584fh1jq&dl=0)
     - [Recording](hello)
     - [Code](hello)
     - [Solutions](hello)
