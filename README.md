@@ -59,7 +59,7 @@ Recommended background:
     - [**JC: Rutledge et al.**](https://pubmed.ncbi.nlm.nih.gov/25092308/)
     - [Slides](https://www.dropbox.com/scl/fi/kkacfue8rw9442xcetbx4/Lecture-3.pdf?rlkey=cca9aturyeijphk2z584fh1jq&dl=0)
     - [Recording](hello)
-    - [Code](https://colab.research.google.com/drive/1hP4p-zNHg7ms1OWKk21rSyqnBVtKWLuZ#scrollTo=RFDVLwReQrWT)
+    - [Code](hello)
     - [Solutions](hello)
 
 + **Mar. 10th**: Depression, effort and planning 
