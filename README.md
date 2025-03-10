@@ -66,7 +66,7 @@ Recommended background:
     - [Intro paper](https://pubmed.ncbi.nlm.nih.gov/25705929/)
     - [S&B Ch. 8](https://www.dropbox.com/scl/fi/20p0zrk5z9jo5b272dz00/RLbook2020-Chapter-8.pdf?rlkey=87qmi9sezfxtt0s4z1zrdz2z9&dl=0)
     - [**JC: Huys et al.**](https://pmc.ncbi.nlm.nih.gov/articles/PMC3297555/pdf/pcbi.1002410.pdf)
-    - [Slides](hello)
+    - [Slides](https://www.dropbox.com/scl/fi/sm76uo4vwh7gqh8pfti2r/Lecture-4.pdf?rlkey=vm3uheq8bnxc757qcu8lw5422&dl=0)
     - [Recording](hello)
     - [Code](hello)
     - [Solutions](hello)
