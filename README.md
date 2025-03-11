@@ -68,8 +68,8 @@ Recommended background:
     - [**JC: Huys et al.**](https://pmc.ncbi.nlm.nih.gov/articles/PMC3297555/pdf/pcbi.1002410.pdf)
     - [Slides](https://www.dropbox.com/scl/fi/sm76uo4vwh7gqh8pfti2r/Lecture-4.pdf?rlkey=vm3uheq8bnxc757qcu8lw5422&dl=0)
     - [Recording](hello)
-    - [Code](hello)
-    - [Solutions](hello)
+    - [Code](https://colab.research.google.com/drive/19sUF20ukbDd16Dl35wxsibZnCz-0fjNC#scrollTo=ffRJS2ROra4O)
+    - [Solutions](https://colab.research.google.com/drive/1aIjGY9H9ni3OpKYwK1Dh_Fi-Lew2VWbA)
 
 + **Mar. 17th**: Naturalistic computational psychiatry 
     - [Intro paper](https://www.sciencedirect.com/science/article/pii/S1364661323002127)
