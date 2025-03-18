@@ -75,10 +75,10 @@ Recommended background:
     - [Intro paper](https://www.sciencedirect.com/science/article/pii/S1364661323002127)
     - [S&B Ch. 9](https://www.dropbox.com/scl/fi/svqaxubvhy9g1jnetsfkv/RLbook2020-Chapter-9.pdf?rlkey=lwu8x0phypngsh6gvoeyhnstl&dl=0)
     - [**JC: Berwian et al.**](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2761562)
-    - [Slides](hello)
+    - [Slides](https://www.dropbox.com/scl/fi/l1w4oxrzea86mg936wwnk/Lecture-5.pdf?rlkey=l5z94rc8bxhnq66i48x839jhq&dl=0)
     - [Recording](hello)
     - [Code](hello)
-    - [Solutions](hello)
+    - [Solutions](https://colab.research.google.com/drive/1EXpsA7hIZuJYhKaFbQJh0T3PcYPbRPKj)
 
 + **Mar. 24th**: Spring Break 
 
