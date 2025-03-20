@@ -49,7 +49,7 @@ Recommended background:
     - [S&B Ch. 4](https://www.dropbox.com/s/bdp3wp63q7myucv/RLbook2020-Chapter%204.pdf?dl=0)
     - [**JC: Zorowitz et al.**](https://cpsyjournal.org/article/10.1162/CPSY_a_00026/)
     - [Slides](https://www.dropbox.com/scl/fi/t1z8gc4d1f7ov0k24vxmi/Lecture-2.pdf?rlkey=jh0gca2m43w73t3ndwbbuqpg9&dl=0)
-    - [Recording](hello)
+    <!-- - [Recording](hello) -->
     - [Code](https://colab.research.google.com/drive/1u6XzVbdeFgR1ev6mXHvEn68czfvTea7M#scrollTo=yIHsc5_kd1yL)
     - [Solutions](https://colab.research.google.com/drive/12caet74yDhRGY8iZjpbZg2VyrnQTqF0R)
 
@@ -58,7 +58,7 @@ Recommended background:
     - [S&B Ch. 6](https://www.dropbox.com/s/p2njyivzwzaljis/RLbook2020-Chapter%206.pdf?dl=0)
     - [**JC: Rutledge et al.**](https://pubmed.ncbi.nlm.nih.gov/25092308/)
     - [Slides](https://www.dropbox.com/scl/fi/kkacfue8rw9442xcetbx4/Lecture-3.pdf?rlkey=cca9aturyeijphk2z584fh1jq&dl=0)
-    - [Recording](hello)
+    <!-- - [Recording](hello) -->
     - [Code](https://colab.research.google.com/drive/1hP4p-zNHg7ms1OWKk21rSyqnBVtKWLuZ#scrollTo=RFDVLwReQrWT)
     - [Solutions](hello)
 
@@ -67,7 +67,7 @@ Recommended background:
     - [S&B Ch. 8](https://www.dropbox.com/scl/fi/20p0zrk5z9jo5b272dz00/RLbook2020-Chapter-8.pdf?rlkey=87qmi9sezfxtt0s4z1zrdz2z9&dl=0)
     - [**JC: Huys et al.**](https://pmc.ncbi.nlm.nih.gov/articles/PMC3297555/pdf/pcbi.1002410.pdf)
     - [Slides](https://www.dropbox.com/scl/fi/sm76uo4vwh7gqh8pfti2r/Lecture-4.pdf?rlkey=vm3uheq8bnxc757qcu8lw5422&dl=0)
-    - [Recording](hello)
+    <!-- - [Recording](hello) -->
     - [Code](https://colab.research.google.com/drive/19sUF20ukbDd16Dl35wxsibZnCz-0fjNC#scrollTo=ffRJS2ROra4O)
     - [Solutions](https://colab.research.google.com/drive/1aIjGY9H9ni3OpKYwK1Dh_Fi-Lew2VWbA)
 
@@ -76,7 +76,7 @@ Recommended background:
     - [S&B Ch. 9](https://www.dropbox.com/scl/fi/svqaxubvhy9g1jnetsfkv/RLbook2020-Chapter-9.pdf?rlkey=lwu8x0phypngsh6gvoeyhnstl&dl=0)
     - [**JC: Berwian et al.**](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2761562)
     - [Slides](https://www.dropbox.com/scl/fi/l1w4oxrzea86mg936wwnk/Lecture-5.pdf?rlkey=l5z94rc8bxhnq66i48x839jhq&dl=0)
-    - [Recording](hello)
+    - [Recording](https://www.dropbox.com/scl/fi/ba27ld6msa901qi8sm4ij/Lecture-5.mp4?rlkey=fc6lq3xlfrgx1bqigtegv0c62&dl=0)
     - [Code](hello)
     - [Solutions](https://colab.research.google.com/drive/1EXpsA7hIZuJYhKaFbQJh0T3PcYPbRPKj)
 
