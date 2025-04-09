@@ -90,7 +90,8 @@ Recommended background:
     - [M&K&G Ch. 2](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
     - [Slides](https://www.dropbox.com/scl/fi/85v0mkyvi4mkxdjcfsy10/Lecture6_April2025.pdf?rlkey=hmkxla5spdgck3hrs2vnbhuu1&dl=0)
     - [Recording](https://www.dropbox.com/scl/fi/v10z3kheakf34120y7omx/Lecture6_recording.mp4?rlkey=012bnz5mgd7xikxzj84e0xtmd&dl=0)
-    - [MATLAB code](https://www.dropbox.com/scl/fi/44ghsvr30bpw62oo5g45v/Lecture6_code_matlab.zip?rlkey=ghs0m3ozzmqtkz9urwwhoo2hk&dl=0)[Python code](https://www.dropbox.com/scl/fi/1j03c7w9akcxz4chs7jsl/Lecture6_code_python.zip?rlkey=cf6m9aezppb2sxsn72ykr154q&dl=0)
+    - [MATLAB code](https://www.dropbox.com/scl/fi/44ghsvr30bpw62oo5g45v/Lecture6_code_matlab.zip?rlkey=ghs0m3ozzmqtkz9urwwhoo2hk&dl=0)
+    - [Python code](https://www.dropbox.com/scl/fi/1j03c7w9akcxz4chs7jsl/Lecture6_code_python.zip?rlkey=cf6m9aezppb2sxsn72ykr154q&dl=0)
     - [Solutions](hello)
 
 + **Apr. 14th**: Break 
@@ -102,7 +103,8 @@ Recommended background:
     - [**JC: Cassidy et al.**](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930004-6)
     - [Slides](hello)
     - [Recording](hello)
-    - [MATLAB code](hello)[Python code](hello)
+    - [MATLAB code](hello)
+    - [Python code](hello)
     - [Solutions](hello)
 
 + **Apr. 28th**: Non-linear dynamics in the brain 
