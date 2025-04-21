@@ -101,10 +101,10 @@ Recommended background:
     - [M&K&G Ch. 5](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
     - [M&K&G Ch. 12](https://www.cns.nyu.edu/malab/static/files/Bayesian_models_of_perception_and_action_v3.pdf)
     - [**JC: Cassidy et al.**](https://www.cell.com/action/showPdf?pii=S0960-9822%2818%2930004-6)
-    - [Slides](hello)
-    - [Recording](hello)
-    - [MATLAB code](hello)
-    - [Python code](hello)
+    - [Slides](https://www.dropbox.com/scl/fi/osouuhj9z8of8qb3wox10/Lecture7_2025.pdf?rlkey=ilse945gpwlv7n1hg1j6s2omy&dl=0)
+    - [Recording](https://www.dropbox.com/scl/fi/qiy86a3ssapbnoae4hpr6/Lecture-7.m4a?rlkey=b35m0kfofqndfho8dippjdzio&dl=0)
+    - [MATLAB code](https://www.dropbox.com/scl/fi/uj81xx353ia2i5xodvmqy/week_7_MATLAB.zip?rlkey=0i3dhme0515egyfjx95a55v6k&dl=0)
+    - [Python code](https://www.dropbox.com/scl/fi/uupttsyi5y2wu7z3awunb/2stage_AI_EVestimations.ipynb?rlkey=9y9qdvad1fucgb3j9z550r574&dl=0)
     - [Solutions](hello)
 
 + **Apr. 28th**: Non-linear dynamics in the brain 
