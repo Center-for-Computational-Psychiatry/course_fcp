@@ -111,9 +111,10 @@ Recommended background:
     - [Intro paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC2691385/)
     - [D & A Ch. 7](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf)
     - [**JC: Suryanarayana et al.**](https://www.sciencedirect.com/science/article/pii/S0893608018302880)
-    - [Slides](hello)
-    - [Recording](hello)
-    - [Code](hello)
+    - [Slides](https://www.dropbox.com/scl/fi/qzm4y6lpp6fuee9h18tea/Lecture8_2025.pdf?rlkey=qp91n5h348bjkzd7uuapuzzut&st=gts2pg6c&dl=0)
+    - [Recording](https://www.dropbox.com/scl/fi/gwvhdqi6zt4dewlz9n3t0/Lecture-8.mp4?rlkey=spkmi05wey02nstiwcjpmfqpr&st=zkm7k130&dl=0)
+    - [MATLAB code](https://www.dropbox.com/scl/fi/lai2v3wh580bm5hkh2791/Onset_detector.m?rlkey=k6wepqffm8s8n04xy44z8xlma&st=087s7mab&dl=0)
+    - [Python code](https://www.dropbox.com/scl/fi/kdvt9qycp64ivb0gcs1n0/Onset_detector.ipynb?rlkey=2q1dbca7hs7ulznc0134yqdh8&st=ftybolth&dl=0)
     - [Solutions](hello)
 
 + **May 5th**: Neurocomputational phenotypes 
