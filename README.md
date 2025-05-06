@@ -121,11 +121,10 @@ Recommended background:
     - [Intro paper](https://www.princeton.edu/~ndaw/d10.pdf)
     - [M&K&G Section C](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf)
     - [**JC: Wilson & Collins**](https://elifesciences.org/articles/49547)
-    - [Slides](hello)
-    - [Recording](hello)
-    - [Code](hello)
+    - [Slides](https://www.dropbox.com/scl/fi/u475b0xkiu46jhofe96a6/Lecture9_2025.pdf?rlkey=d8flgm3colygx9q2o3l59qfbz&st=mfd8dgur&dl=0)
+    - [Recording](https://www.dropbox.com/scl/fi/x1lnzy9tjhss97injnid4/Lecture9.mp4?rlkey=6hz19haeba8709mp4wbufpic9&st=zfmy20t2&dl=0)
 
-+ **May 12th**: Student presentations 
++ **May 19th**: Student presentations 
 
 **Grading:** 
 
